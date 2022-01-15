@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "https://Saad-Bashar.github.io/firebase-auth/static/js/main.6c2920d9.chunk.js",
+    "main.js.map": "https://Saad-Bashar.github.io/firebase-auth/static/js/main.6c2920d9.chunk.js.map",
+    "runtime-main.js": "https://Saad-Bashar.github.io/firebase-auth/static/js/runtime-main.d38cd634.js",
+    "runtime-main.js.map": "https://Saad-Bashar.github.io/firebase-auth/static/js/runtime-main.d38cd634.js.map",
+    "static/js/2.6db6987c.chunk.js": "https://Saad-Bashar.github.io/firebase-auth/static/js/2.6db6987c.chunk.js",
+    "static/js/2.6db6987c.chunk.js.map": "https://Saad-Bashar.github.io/firebase-auth/static/js/2.6db6987c.chunk.js.map",
+    "index.html": "https://Saad-Bashar.github.io/firebase-auth/index.html",
+    "static/js/2.6db6987c.chunk.js.LICENSE.txt": "https://Saad-Bashar.github.io/firebase-auth/static/js/2.6db6987c.chunk.js.LICENSE.txt",
+    "static/media/AntDesign.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/AntDesign.163adab9.ttf",
+    "static/media/Entypo.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/Entypo.a10f4124.ttf",
+    "static/media/EvilIcons.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/EvilIcons.699664b3.ttf",
+    "static/media/Feather.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/Feather.11cd1d79.ttf",
+    "static/media/FontAwesome.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/FontAwesome.1e59d233.ttf",
+    "static/media/Fontisto.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/Fontisto.c0edd688.ttf",
+    "static/media/Foundation.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/Foundation.c0cbb004.ttf",
+    "static/media/Ionicons.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/Ionicons.3517aeaa.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/MaterialCommunityIcons.a7629910.ttf",
+    "static/media/MaterialIcons.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/MaterialIcons.120b4c7b.ttf",
+    "static/media/Octicons.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/Octicons.31d353da.ttf",
+    "static/media/SimpleLineIcons.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/SimpleLineIcons.3ec13a24.ttf",
+    "static/media/Zocial.ttf": "https://Saad-Bashar.github.io/firebase-auth/static/media/Zocial.5e415922.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d38cd634.js",
+    "static/js/2.6db6987c.chunk.js",
+    "static/js/main.6c2920d9.chunk.js"
+  ]
+}
