@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="theme-color" content="#000000" />
+    <title>React Native Web Example</title>
+
+    <style>
+      html,
+      body,
+      #root {
+        /* These styles make the root element exactly full-size */
+        flex: 1;
+        display: flex;
+        max-height: 100vh;
+        height: 100%;
+        width: 100%;
+
+        /* These styles disable body scrolling if you are using <ScrollView> */
+        overflow: hidden;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+      }
+      input:-webkit-autofill {
+        /* This keeps the autofill background color from clobbering the outline of textinput */
+        margin: 5px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
